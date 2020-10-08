@@ -9,7 +9,7 @@
 </head>
 <body>
 <h1>홈 페이지 입니다.</h1>
-<ul>
+<ul> 
 	<li><a href="fortune">오늘의 운세</a></li>
 	<li><a href="member/list">회원 목록보기</a></li>
 </ul>
